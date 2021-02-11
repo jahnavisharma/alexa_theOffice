@@ -1,14 +1,6 @@
+This Alexa fun Skill
+- You can ask Alexa any quote from the famous USA TV show "The Office"
+- Also you can randomly ask for any quote by a particular character from the show
 
-INTRODUCTION
-------------
-new file third commit
-The Administration Menu module displays the entire administrative menu tree
-(and most local tasks) in a drop-down menu, providing administrators one- or
-two-click access to most pages.  Other modules may also add menu links to the
-menu using hook_admin_menu_output_alter().
-
- * For a full description of the module, visit the project page:
-   https://www.drupal.org/project/admin_menu
-
- * To submit bug reports and feature suggestions, or track changes:
-   https://www.drupal.org/project/issues/admin_menu
+Created on Alexa Developer Console
+Language : Python	
